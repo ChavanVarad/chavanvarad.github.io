@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TheBlackVall # the main title
+title: Varad Chavan # the main title
 
-tagline: Varad Chavan - Blog and Profile # it will display as the subtitle
+tagline: Blog and Profile # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A website to showcase my projects and my profile using Jekyll CSM and CI/CD with GitHub.
@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/bwprofile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
