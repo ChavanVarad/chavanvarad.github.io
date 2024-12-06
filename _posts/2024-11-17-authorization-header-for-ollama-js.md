@@ -2,8 +2,6 @@
 title: Ollama, LangchainJS and Custom Headers
 author: Varad Chavan
 date: 2024-11-17 14:10:00 +0800
-categories: [Blogging, Debugging]
-tags: [debugging]
 render_with_liquid: false
 ---
 
